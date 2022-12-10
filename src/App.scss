@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@200;300;400;500;600;700;800&family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+body{
+    font-family: 'Assistant', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 75px;
+}
+
+
+body {
+
+    background: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+
+.backg
+{
+    background: #eae9e9;
+}
+.backgg
+{
+    color: #06A3DA;
+}
+.fwbold
+{
+    font-weight:500;
+    font-size: 16px;
+}
+
+
+.db{
+background: #091E3E;
+}
+.nav-item
+{
+    &:hover{
+   
+    background: #091E3E;
+    border-radius: 5px;
+   color: white;
+   text-decoration: underline;
+   transition: 0.9s;
+   scale: 1.1;
+  
+    }
+}
+.colc
+{
+    color:  #091E3E;
+}
+.backggg
+{
+    background: #F1F5FE;
+}
+.btn1
+{
+background: #091E3E;
+color: white;
+border-radius: 10px;
+&:hover
+{
+    color: #091E3E;
+    background: #eae9e9;
+    scale: 1.1;
+    transition: 1s;
+}
+
+}
+.btn2
+{
+    background: #091E3E;
+color: white;
+border-radius: 10px;
+&:hover
+{
+    color: #091E3E;
+    background: #eae9e9;
+    scale: 1.1;
+    transition: 1s;
+}
+
+}
+.box
+{
+    background: #091E3E;
+    color: white;
+    border-radius: 10px;
+    
+}
+.hi
+{
+    &:hover
+    {
+        scale: 1.05;
+        transition: 1s;
+    }
+}
+.his
+{
+    position: relative;
+    &:hover{
+        .hisa
+        {
+        visibility: visible;
+       
+    }
+}
+}
+.hisa
+    {
+        visibility: hidden;
+        position: absolute;
+        top: 50%;
+        left: 33%;
+    
+    }
+    .backgggg
+    {
+        background:#091E3E;
+    }
