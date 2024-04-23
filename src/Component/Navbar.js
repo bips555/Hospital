@@ -5,6 +5,7 @@ import Doctors from '../Pages/Doctors';
 import Blog from '../Pages/Blog';
 import Services from '../Pages/Services';
 
+
 import Contact from '../Pages/Contact';
 function Navbar() {
   return (
@@ -57,6 +58,7 @@ function Navbar() {
         <Route path="/services" element={<Services/>} />
   
         <Route path="/contact" element={<Contact/>} />
+      
       </Routes>
 
 

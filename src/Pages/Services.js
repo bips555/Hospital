@@ -6,7 +6,7 @@ function Services() {
     <>
    <div className=' backgggg text-center text-white my-5'>
     <h1 className='fw-bold py-5'>Our Sevices</h1>
-    <p className='fw-bold text-center py-5'>Home>>Services</p></div>
+    <p className='fw-bold text-center py-5'>Services</p></div>
     <div className='container'>
     <div className="row d-flex align-items-center  justify-content-center">
          

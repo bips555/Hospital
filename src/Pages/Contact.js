@@ -4,7 +4,7 @@ function Contact() {
   return (<>
     <div className=' backgggg text-center text-white'>
     <h1 className='fw-bold py-5'>Contact Us</h1>
-    <p className='fw-bold text-center py-5'>Home>>Contact</p></div>
+    <p className='fw-bold text-center py-5'>Contact</p></div>
     <div className='container'>
     <h3 className='fw-bold colc text-center my-5'>Drop Us Message For Any Query</h3>
 
